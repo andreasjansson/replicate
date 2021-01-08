@@ -9,7 +9,7 @@ require (
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-bindata/go-bindata v3.1.2+incompatible
-	github.com/golangci/golangci-lint v1.33.0
+	github.com/golangci/golangci-lint v1.35.0
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/kami-zh/go-capturer v0.0.0-20171211120116-e492ea43421d
 	github.com/logrusorgru/aurora v2.0.3+incompatible
@@ -30,7 +30,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	golang.org/x/sys v0.0.0-20201119102817-f84b799fce68 // indirect
-	golang.org/x/tools v0.0.0-20201121010211-780cb80bd7fb
+	golang.org/x/tools v0.0.0-20210105210202-9ed45478a130
 	google.golang.org/api v0.35.0
 	gotest.tools/gotestsum v0.6.0
 )
