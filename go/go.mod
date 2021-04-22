@@ -3,7 +3,7 @@ module github.com/replicate/replicate/go
 go 1.13
 
 require (
-	cloud.google.com/go/storage v1.10.0
+	cloud.google.com/go/storage v1.15.0
 	github.com/araddon/dateparse v0.0.0-20200409225146-d820a6159ab1
 	github.com/aws/aws-sdk-go v1.35.35
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
@@ -27,10 +27,9 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/xeonx/timeago v1.0.0-rc4
 	github.com/xtgo/uuid v0.0.0-20140804021211-a0b114877d4c // indirect
-	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
-	golang.org/x/sys v0.0.0-20201119102817-f84b799fce68 // indirect
-	golang.org/x/tools v0.0.0-20201121010211-780cb80bd7fb
-	google.golang.org/api v0.35.0
+	golang.org/x/oauth2 v0.0.0-20210413134643-5e61552d6c78
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/tools v0.1.0
+	google.golang.org/api v0.45.0
 	gotest.tools/gotestsum v0.6.0
 )
