@@ -5,11 +5,11 @@ go 1.13
 require (
 	cloud.google.com/go/storage v1.10.0
 	github.com/araddon/dateparse v0.0.0-20200409225146-d820a6159ab1
-	github.com/aws/aws-sdk-go v1.35.35
+	github.com/aws/aws-sdk-go v1.36.30
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-bindata/go-bindata v3.1.2+incompatible
-	github.com/golangci/golangci-lint v1.33.0
+	github.com/golangci/golangci-lint v1.40.1
 	github.com/hashicorp/go-uuid v1.0.2
 	github.com/kami-zh/go-capturer v0.0.0-20171211120116-e492ea43421d
 	github.com/logrusorgru/aurora v2.0.3+incompatible
@@ -23,14 +23,13 @@ require (
 	github.com/sabhiram/go-gitignore v0.0.0-20180611051255-d3107576ba94
 	github.com/segmentio/analytics-go v3.1.0+incompatible
 	github.com/segmentio/backo-go v0.0.0-20200129164019-23eae7c10bd3 // indirect
-	github.com/spf13/cobra v1.1.1
-	github.com/stretchr/testify v1.6.1
+	github.com/spf13/cobra v1.1.3
+	github.com/stretchr/testify v1.7.0
 	github.com/xeonx/timeago v1.0.0-rc4
 	github.com/xtgo/uuid v0.0.0-20140804021211-a0b114877d4c // indirect
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
-	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
-	golang.org/x/sys v0.0.0-20201119102817-f84b799fce68 // indirect
-	golang.org/x/tools v0.0.0-20201121010211-780cb80bd7fb
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/tools v0.1.2-0.20210512205948-8287d5da45e4
 	google.golang.org/api v0.35.0
 	gotest.tools/gotestsum v0.6.0
 )
